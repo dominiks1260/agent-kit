@@ -16,5 +16,10 @@
     "email",
     "tool"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://keyid.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeyID-AI/agent-kit"
+  }
 }
