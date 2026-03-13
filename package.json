@@ -1,0 +1,20 @@
+{
+  "name": "@keyid/agent-kit",
+  "version": "0.2.0",
+  "description": "KeyID.ai MCP server — agent email tools for AI frameworks",
+  "main": "src/index.js",
+  "bin": {
+    "keyid-mcp": "src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "keyid",
+    "mcp",
+    "agent",
+    "email",
+    "tool"
+  ],
+  "license": "MIT"
+}
